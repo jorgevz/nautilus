@@ -25,22 +25,22 @@ width: 400px;
 }
 
 #t3{
-height: 100px;
-width: 800px;
-left: 40%;
-top: 100%;
-text-align: end;
-font-size: large;
-font-weight: bold;
-}
+    height: 100px;
+    width: 800px;
+    left: 40%;
+    top: 100%;
+    text-align: end;
+    font-size: large;
+    font-weight: bold;
+    }
 #t4{
 font-size: xx-large;
-height: 200px;
+ height: 200px;
 width: 1500px;
 text-align: center;
-color: gold;
-background-image: url('./assets/ideas.jpg');
-}
+ color: gold;
+ background-image: url('./assets/ideas.jpg');
+        }
 
 #t5{
 display: flex;
