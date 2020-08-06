@@ -6,7 +6,7 @@ display: flex;
 color: white;
  text-align: center;
 justify-items: center;
-background-image: url('./assets/matches.png');
+background-image: url("./assets/matches.png");
 height: 1255px;
 width: 1250px;
     }
