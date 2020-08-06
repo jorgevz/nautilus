@@ -3,7 +3,7 @@ my first background image implemented */
 .red{
 display: flex;
  flex-direction: column;
-color: white;
+color: rgba(255, 255, 255, 0.954);
  text-align: center;
 justify-items: center;
 background-image: url("./assets/matches.png");
