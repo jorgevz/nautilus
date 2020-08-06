@@ -14,7 +14,7 @@ return(
 <p id='t5'>Catalysts</p>
 <p id="t7">Chapter One</p>
 <p id="t8">Chapter Two</p>
-<p id="t9">Chapter three</p>
+<p id="t9">Chapter Three</p>
 <p id="t10">Chapter four</p>
 <p id="t6"></p>
 <div id="box1">
