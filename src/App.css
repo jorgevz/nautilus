@@ -97,16 +97,16 @@ background-image: url('./assets/ai.png');
                     font-weight: bold;
                     }
 
-#box1{
-font-weight: bold;
-position: absolute;
-left: 30%;
-width: 200px;
-height: 200px;
-text-align: center;
-background-color: white;
-color: black;
-}
+                    #box1{
+                        font-weight: bold;
+                        position: absolute;
+                        left: 30%;
+                        width: 200px;
+                        height: 200px;
+                        text-align: center;
+                        background-color: white;
+                        color: black;
+                        }
     
 
 
