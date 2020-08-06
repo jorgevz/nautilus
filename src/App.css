@@ -42,11 +42,11 @@ text-align: center;
  background-image: url('./assets/ideas.jpg');
         }
 
-#t5{
-display: flex;
-font-size: xx-large;
-font-family: Georgia, 'Times New Roman', Times, serif;
-}
+        #t5{
+            display: flex;
+            font-size: xx-large;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            }
 #t6{
 position: absolute;
 right: 0%;
