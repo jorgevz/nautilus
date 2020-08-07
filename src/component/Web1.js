@@ -7,7 +7,9 @@ render(){
 return(
 <div>
 <div className='red'/>
-<p id="t1">Catalyst</p>
+<section id="t1">Catalyst
+<button id='b1'>See more</button>
+</section>
 <p id='t2'></p>
 <p id='t3'>ISSUES  TOPICS   BLOGS  NEWSLETTER</p>
 <p id="t4">WHY THE LAWS OF PHYSICS ARE INEVITABLE ?</p>
